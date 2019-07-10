@@ -13,7 +13,6 @@ If you have time and happy to translate it for more chinese, you could word with
 该项目是为那些英语阅读困难，母语为汉语的人编写的。由于我的英语水平有限，会有很多语法错误。如果你发现错误，请提交 issue。
 
 如果你有时间并且愿意为了更多的中国人翻译，你可以和我一起维护这个项目。
-项目地址：https://github.com/forMwish/The-Scientist-and-Engineer-s-Guide-to-Digital-Signal-Processing
 
 
 
